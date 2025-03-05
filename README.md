@@ -6,7 +6,7 @@ Aprenda do zero os conceitos essenciais da Programação Orientada a Objetos apl
 # **Plano de Aula**
 
 ## **📚 Módulo 1: Fundamentos do C# (2h)**
-### 📚 Aula 1: Introdução ao C# e Configuração do Ambiente (20 min)
+### 📚 [Aula 1: Introdução ao C# e Configuração do Ambiente (20 min)](https://github.com/dfilitto/csharp-poo/wiki/Aula-1:-Introdu%C3%A7%C3%A3o-ao-C%23-e-Configura%C3%A7%C3%A3o-do-Ambiente)
 - Instalação do Visual Studio e Visual Studio Code
 - Criando um projeto em C#
 - Estrutura básica de um programa em C#
